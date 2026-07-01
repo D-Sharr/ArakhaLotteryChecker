@@ -1,0 +1,84 @@
+{
+    "organization": "ဗဟိုအကောက်ခွန်နှင့်အခွန်ဌာန (Arakkha Revenue Service)",
+    "lottery_name": "အာရက္ခလောင်ပေါ်ပေါက်စဉ်",
+    "draw_count": 1,
+    "draw_count_name": "ပထမအကြိမ် (1/26)",
+    "date": "2026-07-01T00:00:00",
+    "results": {
+        "first_prize": {
+            "prize_name_my": "ပထမဆု သိန်းငါးရာ",
+            "prize_value": "500 Lakhs",
+            "winning_numbers": [
+                "323692"
+            ]
+        },
+        "second_prize": {
+            "prize_name_my": "ဒုတိယဆု သိန်းသုံးရာ",
+            "prize_value": "300 Lakhs",
+            "winning_numbers": [
+                "116482"
+            ]
+        },
+        "third_prize": {
+            "prize_name_my": "တတိယဆု သိန်းနှစ်ရာ",
+            "prize_value": "200 Lakhs",
+            "winning_numbers": [
+                "079645"
+            ]
+        },
+        "fourth_prize": {
+            "prize_name_my": "စတုတ္ထဆု သိန်းငါးဆယ်",
+            "prize_value": "50 Lakhs",
+            "winning_numbers": [
+                "110036",
+                "168447",
+                "292678",
+                "165555",
+                "220538",
+                "331004"
+            ]
+        },
+        "fifth_prize": {
+            "prize_name_my": "ပဉ္စမဆု သိန်းတဆယ်",
+            "prize_value": "10 Lakhs",
+            "winning_numbers": [
+                "034311",
+                "204882",
+                "319480",
+                "040768",
+                "230618",
+                "331100",
+                "152707",
+                "270795",
+                "180729",
+                "317764"
+            ]
+        },
+        "sixth_prize": {
+            "prize_name_my": "ဆဋ္ဌမဆု ငါးသိန်း",
+            "prize_value": "5 Lakhs",
+            "winning_numbers": [
+                "012584",
+                "138079",
+                "209269",
+                "277375",
+                "021583",
+                "169623",
+                "212639",
+                "320719",
+                "049136",
+                "173760",
+                "219251",
+                "324297",
+                "103640",
+                "188210",
+                "226155",
+                "326752",
+                "118894",
+                "192448",
+                "241886",
+                "330479"
+            ]
+        }
+    }
+}
